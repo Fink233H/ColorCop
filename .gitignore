@@ -1,0 +1,51 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# non-compiles browse files (NCB) used by IntelliSense 
+*.ncb
+
+# Visual Studio options file (OPT) used for breakpoints, etc 
+*.opt
+
+# Visual Studio log file (PLG) used for build output
+*.plg
+
+# Visual Studio solution user options (SUO)
+*.suo
+
+# VisualStudio2008 user settings
+*.user
+
+#Visual studio (APS) - last resource editor state
+*.aps
+
+# Visual Studio build output
+Release/
+Debug/
+ColorCop___Win32_Release_without_ALIGN/
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
